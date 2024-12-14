@@ -35,7 +35,7 @@ Genetic Algorithm (Algoritma Genetika) didasarkan pada prinsip seleksi alam yang
 
 **Ilustrasi:**
 
-![Genetic Algorithm](image-1.png)
+![Genetic Algorithm]([image-1.png](https://media.licdn.com/dms/image/v2/D5612AQEBWfPK4SZhYw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700302361966?e=2147483647&v=beta&t=oeOViEDdj3DaJBm6AFFAw7v1CMU9Zv-vkdtK28YRw5A))
 
 ### **c. Fuzzy Logic**  
 **Penjelasan:**
