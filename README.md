@@ -19,6 +19,7 @@ Ant Colony Optimization adalah algoritma yang meniru perilaku semut dalam mencar
 - Penjadwalan tugas dalam proses manufaktur.
 
 **Ilustrasi:**
+
 ![Ant Colony Optimization](https://socs.binus.ac.id/files/2019/12/dw-3.jpg)
 
 ### **b. Genetic Algorithm (GA)**  
@@ -33,6 +34,7 @@ Genetic Algorithm (Algoritma Genetika) didasarkan pada prinsip seleksi alam yang
 - Optimasi desain produk.
 
 **Ilustrasi:**
+
 ![Genetic Algorithm](image-1.png)
 
 ### **c. Fuzzy Logic**  
@@ -44,6 +46,7 @@ Fuzzy Logic meniru cara manusia berpikir dalam situasi yang tidak pasti atau mem
 - Sistem pengambilan keputusan dalam kondisi ambigu.
 
 **Ilustrasi:**
+
 ![Fuzzy Logic](https://cdn.ttgtmedia.com/rms/onlineimages/enterprise_ai-fuzzy_logic_vs_boolean-f.png)
 
 
