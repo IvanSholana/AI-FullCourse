@@ -1,5 +1,8 @@
 # **PENGENALAN KECERDASAN BUATAN (AI)**
 
+
+![AI](https://www.investopedia.com/thmb/4K3hIci9bUF3521OUjC-cCG3NpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg)
+
 ## **1. Apa itu AI?**
 **AI** atau **Artificial Intelligence** (dalam Bahasa Indonesia: Kecerdasan Buatan) adalah kecerdasan yang diciptakan oleh manusia untuk meniru cara kerja kecerdasan alami yang ditemukan pada manusia dan makhluk hidup lainnya. Dalam konteks ini, kecerdasan berarti kemampuan untuk memahami, belajar, menganalisis, dan memecahkan masalah. AI tidak hanya meniru kecerdasan manusia, tetapi juga perilaku dan kemampuan adaptasi yang terlihat pada hewan, tumbuhan, atau bahkan sistem alami lainnya.
 
